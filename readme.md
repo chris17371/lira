@@ -9,3 +9,10 @@ este sitio contiene lo siguiente
 
 
  > Un pais, una civilizacionse puede juzgar por la forma que trata a sus animales. - mahatma gandhi 
+
+ * Servicios
+    * Fotografia
+    * Diseno web
+        * landing page
+        * sitio web informativo
+        * Tienda online
