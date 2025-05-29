@@ -1,0 +1,63 @@
+.box{
+    width: 200px;
+    height: 200px;
+    animation-name: box;
+    animation-duration: 5s;
+    background-color: whitesmoke;
+    position: relative;
+}
+@keyframes box{
+    /*from{ background-color: violet;}
+    to{background-color: rgb(207, 255, 51);}*/
+    /*0%{ background-color: violet;}
+    25%{background-color: rgb(207, 255, 51);}
+    50%{background-color: rgb(255, 0, 0);}
+    75%{background-color: rgb(0, 255, 0);}
+    100%{background-color: rgb(0, 0, 255);}*/
+    0%{ background-color: rgb(69, 38, 69);left: 0px; right: 50px;}
+
+    100%{background-color:  rgb(69, 38, 69);left: 700px;right: 1000px;}
+    
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    animation-name: box2;
+    animation-duration: 5s;
+    background-color: whitesmoke;
+    position: relative;
+}
+@keyframes box2{
+    0%{ background-color: rgb(184, 141, 10);left: 0px;}
+
+    100%{background-color: rgb(184, 141, 10);left: 650px;;}
+    
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    animation-name: box3;
+    animation-duration: 5s;
+    background-color: whitesmoke;
+    position: relative;
+}
+@keyframes box3{
+    0%{ background-color: rgb(8, 174, 239);left: 0px; }
+
+    100%{background-color: rgb(8, 174, 239);left: 850px;}
+    
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    animation-name: box4;
+    animation-duration: 5s;
+    background-color: whitesmoke;
+    position: relative;
+}
+@keyframes box4{
+    0%{ background-color: rgb(233, 10, 10);left: 0px; }
+
+    100%{background-color: rgb(233, 10, 10);left: 300px;}
+    
+}

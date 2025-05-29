@@ -1,0 +1,17 @@
+body{
+    background-color: #0a9146;
+    color: black;
+    
+}
+h1{
+    font-size: 48px; /* tamaño de la fuente */
+    color: rgb(0, 0, 0); /* color del texto */
+    text-transform: uppercase; /* transforma el texto a mayúsculas */
+}
+.subtitle{
+    color: yellow;
+    font-size: 60px;
+    font-weight: 800px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
