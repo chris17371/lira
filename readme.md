@@ -16,3 +16,4 @@ este sitio contiene lo siguiente
         * landing page
         * sitio web informativo
         * Tienda online
+ [Buscador](https://www.google.com/?hl=es)
