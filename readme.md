@@ -1,0 +1,7 @@
+# Sitio web
+## desarrollado por christhian Lira
+este sitio contiene lo siguiente
+- Index pagina principal para cautivar a la audiencia
+- Pagina de servicios donde se detalla cada uno de los servicios 
+- pagina del team donde se muestra la profesion, fotos y datos del contacto
+- pagina de contacto contiene un titulo,formulario de contacto y google maps
