@@ -19,3 +19,4 @@ este sitio contiene lo siguiente
 
 [Buscador](https://www.google.com/?hl=es)
 `<h1>Hola mundo </h1>`
+![OSO](assets/images/Maracay.jpg)
